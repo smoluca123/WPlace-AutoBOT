@@ -3,6 +3,8 @@
     <a href="EN.md"><img src="https://flagcdn.com/256x192/us.png" width="48" alt="USA Flag"></a>
   &nbsp;
     <a href="FR.md"><img src="https://flagcdn.com/256x192/fr.png" width="48" alt="Franch Flag"></a>
+  &nbsp;
+    <a href="RU.md"><img src="https://flagcdn.com/256x192/ru.png" width="48" alt="Franch Flag"></a>
 </p>
 
 ---
