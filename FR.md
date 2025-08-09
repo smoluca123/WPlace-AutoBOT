@@ -2,7 +2,7 @@
 <!-- > **Si vous êtes Américain ou d’un autre pays, ne vous inquiétez pas : les scripts détectent votre localisation et traduiront automatiquement.**  -->
 
 > [!WARNING]
-> **Pour ceux qui utilisent le script, vous avez peut-être remarqué qu’il a cessé de fonctionner. C’est parce que wplace a été mis à jour et envoie maintenant un captcha toutes les 2 minutes, ce qui rend très difficile l’utilisation des bots. Mais j’ai déjà trouvé une solution et je travaille dessus aussi vite que possible pour vous. Un grand merci du fond du cœur à tous ceux qui aident ce projet <3**
+> **Salut, je vais être honnête avec vous : il est très compliqué de recréer ce script car la sécurité du site est devenue bien meilleure ; ils ont ajouté Cloudflare aux requêtes les plus importantes, un anti-debugger qui bloque le site et envoie un autre captcha lorsque la console du navigateur est ouverte, ils envoient un captcha toutes les 2 minutes et ont même bloqué Burp Suite sur le site web, donc oui, il est vraiment très difficile de recréer le script ; honnêtement, je ne sais plus quoi faire, je n’ai plus d’idées et c’est tout… si quelqu’un a une idée et veut aider au code, qu’il n’hésite pas.**
 
 ---
 
