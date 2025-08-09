@@ -9,8 +9,8 @@
 
 ---
 
-> [!WARNING]
-> **Para quem usa o script, deve ter percebido que ele parou de funcionar. Isso acontece porque o wplace foi atualizado e agora envia um captcha a cada 2 minutos, o que torna muito difícil criar bots. Mas eu já encontrei uma solução e estou desenvolvendo o mais rápido possível para vocês. Obrigado de coração a todos que estão ajudando neste projeto <3**
+> [!NOTE]
+> **Olá, vou ser sincero com vocês: está muito complicado recriar esse script, porque a segurança do site ficou muito melhor; eles adicionaram Cloudflare nas requisições mais importantes, um anti-debugger que bloqueia o site e envia outro captcha quando o console do navegador está aberto, estão mandando captcha a cada 2 minutos e ainda bloquearam o Burp Suite no website, então sim, realmente está muito difícil recriar o script; sinceramente, não sei mais o que fazer, perdi minhas ideias e é isso… se alguém tiver alguma ideia e quiser ajudar no código, fique à vontade.**
 
 ---
 
