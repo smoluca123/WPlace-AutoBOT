@@ -3,7 +3,7 @@
 
 
 > [!WARNING]
-> **For those who use the script, you might have noticed it stopped working. This is because wplace was updated and now it sends a captcha every 2 minutes, making it really hard to run bots. But I’ve already found a way, and I’m working on it as fast as I can for you. Big thanks from the heart to everyone who’s helping with this project <3**
+> **Hello, I’ll be honest with you: it’s very complicated to recreate this script because the site’s security has become much better; they added Cloudflare to the most important requests, an anti-debugger that blocks the site and sends another captcha when the browser console is open, they’re sending a captcha every 2 minutes and even blocked Burp Suite on the website, so yes, it’s really very difficult to recreate the script; honestly, I don’t know what else to do, I’ve run out of ideas and that’s it… if anyone has any ideas and wants to help with the code, feel free.**
 
 ---
 
