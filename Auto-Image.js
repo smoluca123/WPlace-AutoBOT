@@ -216,7 +216,7 @@
       pixels: "Пікселі",
       charges: "Заряди",
       estimatedTime: "Орієнтовний час",
-      initMessage: "Натисніть «Запустити Авто-BOT», щоб почати",
+      initMessage: "Натисніть «Запустити бота», щоб почати",
       waitingInit: "Очікування запуску...",
       resizeSuccess: "✅ Зображення змінено до {width}x{height}",
       paintingPaused: "⏸️ Малювання призупинено на позиції X: {x}, Y: {y}"
