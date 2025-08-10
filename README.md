@@ -2,11 +2,13 @@
   Translations ➜&nbsp;
     <a href="EN.md"><img src="https://flagcdn.com/256x192/us.png" width="48" alt="USA Flag"></a>
   &nbsp;
-    <a href="FR.md"><img src="https://flagcdn.com/256x192/fr.png" width="48" alt="Franch Flag"></a>
+    <a href="FR.md"><img src="https://flagcdn.com/256x192/fr.png" width="48" alt="French Flag"></a>
   &nbsp;
-    <a href="RU.md"><img src="https://flagcdn.com/256x192/ru.png" width="48" alt="Franch Flag"></a>
+    <a href="RU.md"><img src="https://flagcdn.com/256x192/ru.png" width="48" alt="Russian Flag"></a>
   &nbsp;
-    <a href="NL.md"><img src="https://flagcdn.com/256x192/nl.png" width="48" alt="Franch Flag"></a>
+    <a href="NL.md"><img src="https://flagcdn.com/256x192/nl.png" width="48" alt="Netherlands Flag"></a>
+  &nbsp;
+    <a href="UK.md"><img src="https://flagcdn.com/256x192/ua.png" width="48" alt="Ukrainian Flag"></a>
 </p>
 
 ---

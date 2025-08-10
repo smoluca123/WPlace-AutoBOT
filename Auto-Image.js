@@ -186,6 +186,40 @@
       waitingInit: "Wachten op initialisatie...",
       resizeSuccess: "✅ Afbeelding verkleind naar {breedte} x {hoogte}",
       paintingPaused: "⏸️ Schilderen gepauzeerd op positie X: {x}, Y: {y}"
+    },
+    uk: {
+      title: "WPlace Auto-Image",
+      initBot: "Запустити бота",
+      uploadImage: "Завантажити зображення",
+      resizeImage: "Змінити розмір зображення",
+      selectPosition: "Вибрати позицію",
+      startPainting: "Почати малювання",
+      stopPainting: "Зупинити малювання",
+      checkingColors: "🔍 Перевірка доступних кольорів...",
+      noColorsFound: "❌ Відкрийте палітру кольорів на сайті та спробуйте ще раз!",
+      colorsFound: "✅ Знайдено {count} доступних кольорів",
+      loadingImage: "🖼️ Завантаження зображення...",
+      imageLoaded: "✅ Зображення завантажено з {count} коректними пікселями",
+      imageError: "❌ Помилка завантаження зображення",
+      selectPositionAlert: "Намалюйте перший піксель у місці, з якого має початися арт!",
+      waitingPosition: "👆 Очікування, поки ви намалюєте контрольний піксель...",
+      positionSet: "✅ Позицію успішно встановлено!",
+      positionTimeout: "❌ Час очікування вибору позиції вичерпано",
+      startPaintingMsg: "🎨 Початок малювання...",
+      paintingProgress: "🧱 Прогрес: {painted}/{total} пікселів...",
+      noCharges: "⌛ Немає зарядів. Очікування {time}...",
+      paintingStopped: "⏹️ Малювання зупинено користувачем",
+      paintingComplete: "✅ Малювання завершено! Намальовано {count} пікселів.",
+      paintingError: "❌ Помилка під час малювання",
+      missingRequirements: "❌ Спочатку завантажте зображення та виберіть позицію",
+      progress: "Прогрес",
+      pixels: "Пікселі",
+      charges: "Заряди",
+      estimatedTime: "Орієнтовний час",
+      initMessage: "Натисніть «Запустити бота», щоб почати",
+      waitingInit: "Очікування запуску...",
+      resizeSuccess: "✅ Зображення змінено до {width}x{height}",
+      paintingPaused: "⏸️ Малювання призупинено на позиції X: {x}, Y: {y}"
     }
   };
 
@@ -210,15 +244,11 @@
     language: 'en'
   };
 
-  async function detectLanguage() {
-    try {
-      const response = await fetch('https://ipapi.co/json/');
-      const data = await response.json();
-      state.language = data.country === 'BR' ? 'pt' : 'en';
-      return state.language;
-    } catch {
-      state.language = 'en';
-      return 'en';
+  function detectLanguage() {
+    const userLang = navigator.language.split('-')[0]
+
+    if (TEXTS[userLang]) {
+      state.language = userLang;
     }
   }
 
@@ -429,7 +459,7 @@
   }
 
   async function createUI() {
-    await detectLanguage();
+    detectLanguage();
 
     const fontAwesome = document.createElement('link');
     fontAwesome.rel = 'stylesheet';
