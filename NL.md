@@ -1,7 +1,7 @@
 <!-- > [!BELANGRIJK] -->
 <!-- > **Als je Amerikaan bent of uit een ander land komt, maak je geen zorgen: de scripts detecteren je locatie en vertalen automatisch.** -->
 
-> [!WARNING]
+> [!NOTE]
 > **Hoi Hoi!, ik zal eerlijk zijn: het is erg ingewikkeld om dit script opnieuw te maken, omdat de beveiliging van de site veel beter is geworden. Ze hebben Cloudflare toegevoegd aan de belangrijkste verzoeken, een anti-debugger die de site blokkeert en een nieuwe captcha stuurt wanneer de browserconsole open is. Ze sturen elke 2 minuten een captcha en hebben zelfs Burp Suite op de website geblokkeerd. Dus ja, het is echt heel moeilijk om het script opnieuw te maken. Eerlijk gezegd weet ik niet wat ik anders moet doen, ik heb geen ideeën meer en dat is het dan... als iemand ideeën heeft en wil helpen met de code, voel je vrij.**
 
 ---
@@ -62,7 +62,7 @@ javascript:fetch("https://raw.githubusercontent.com/DarkModde/WPlace-AutoBOT/ref
 
 <br>
 
-> [!BELANGRIJK]
+> [!IMPORTANT]
 > <p><sub><strong>1.</strong> Geen van de scripts werkt als u het browsertabblad sluit. U moet het WPlace-tabblad open houden, zelfs als het op de achtergrond actief is.</sub></p>
 > <p><sub><strong>2.</strong> Voer nooit beide scripts op dezelfde pagina uit — dit kan uw WPlace storen. Als dit gebeurt, ververs dan gewoon de pagina!</sub></p>
 > <p><sub><strong>3.</strong> Als het script de beschikbare kleuren niet detecteert, klik dan gewoon op de knop "Paint" om ze weer te geven — en start daarna pas de Auto-Imager.</sub></p>
