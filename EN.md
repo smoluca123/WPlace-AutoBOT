@@ -2,8 +2,18 @@
 <!-- > **If you're American or from another country, don't worry: the scripts detect your location and will translate automatically.**  -->
 
 
-> [!WARNING]
-> **Hello, I’ll be honest with you: it’s very complicated to recreate this script because the site’s security has become much better; they added Cloudflare to the most important requests, an anti-debugger that blocks the site and sends another captcha when the browser console is open, they’re sending a captcha every 2 minutes and even blocked Burp Suite on the website, so yes, it’s really very difficult to recreate the script; honestly, I don’t know what else to do, I’ve run out of ideas and that’s it… if anyone has any ideas and wants to help with the code, feel free.**
+> [!NOTE]
+> **Hello everyone, the repository is being archived but the project is not dead, a group has volunteered to continue the updates and below are the links to the new GitHub and Discord. Thank you from the heart to everyone who supported, love you all <3**
+<br>
+
+<p align="center">
+  <a href="https://discord.gg/dtxqAxqSET">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="100">
+  </a>
+  <a href="https://github.com/Wplace-AutoBot/WPlace-AutoBOT">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="100">
+  </a>
+</p>
 
 ---
 
