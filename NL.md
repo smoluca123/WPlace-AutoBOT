@@ -2,7 +2,17 @@
 <!-- > **Als je Amerikaan bent of uit een ander land komt, maak je geen zorgen: de scripts detecteren je locatie en vertalen automatisch.** -->
 
 > [!NOTE]
-> **Hoi Hoi!, ik zal eerlijk zijn: het is erg ingewikkeld om dit script opnieuw te maken, omdat de beveiliging van de site veel beter is geworden. Ze hebben Cloudflare toegevoegd aan de belangrijkste verzoeken, een anti-debugger die de site blokkeert en een nieuwe captcha stuurt wanneer de browserconsole open is. Ze sturen elke 2 minuten een captcha en hebben zelfs Burp Suite op de website geblokkeerd. Dus ja, het is echt heel moeilijk om het script opnieuw te maken. Eerlijk gezegd weet ik niet wat ik anders moet doen, ik heb geen ideeën meer en dat is het dan... als iemand ideeën heeft en wil helpen met de code, voel je vrij.**
+> **Hallo allemaal, de repository wordt gearchiveerd maar het project is niet dood, een groep heeft zich aangemeld om de updates voort te zetten en hieronder staan de links naar de nieuwe GitHub en Discord. Hartelijk dank aan iedereen die dit project gesteund heeft, ik hou van jullie <3**
+<br>
+
+<p align="center">
+  <a href="https://discord.gg/dtxqAxqSET">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="100">
+  </a>
+  <a href="https://github.com/Wplace-AutoBot/WPlace-AutoBOT">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="100">
+  </a>
+</p>
 
 ---
 
