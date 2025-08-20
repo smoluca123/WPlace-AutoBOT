@@ -14,7 +14,19 @@
 ---
 
 > [!NOTE]
-> **Olá, vou ser sincero com vocês: está muito complicado recriar esse script, porque a segurança do site ficou muito melhor; eles adicionaram Cloudflare nas requisições mais importantes, um anti-debugger que bloqueia o site e envia outro captcha quando o console do navegador está aberto, estão mandando captcha a cada 2 minutos e ainda bloquearam o Burp Suite no website, então sim, realmente está muito difícil recriar o script; sinceramente, não sei mais o que fazer, perdi minhas ideias e é isso… se alguém tiver alguma ideia e quiser ajudar no código, fique à vontade.**
+> **Olá a todos, o repositório está sendo arquivado mas o projeto não morreu, um grupo se prontificou a continuar as atualizações e abaixo estão os links do novo GitHub e Discord, obrigado de coração a todos que apoiaram, amo vocês <3**
+<br>
+
+<p align="center">
+  <a href="https://discord.gg/dtxqAxqSET">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="100">
+  </a>
+  <a href="https://github.com/Wplace-AutoBot/WPlace-AutoBOT">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="100">
+  </a>
+</p>
+
+
 
 ---
 
