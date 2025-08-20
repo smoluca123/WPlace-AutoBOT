@@ -1,8 +1,18 @@
 <!-- > [!IMPORTANT]  -->
 <!-- > **Si vous êtes Américain ou d’un autre pays, ne vous inquiétez pas : les scripts détectent votre localisation et traduiront automatiquement.**  -->
 
-> [!WARNING]
-> **Salut, je vais être honnête avec vous : il est très compliqué de recréer ce script car la sécurité du site est devenue bien meilleure ; ils ont ajouté Cloudflare aux requêtes les plus importantes, un anti-debugger qui bloque le site et envoie un autre captcha lorsque la console du navigateur est ouverte, ils envoient un captcha toutes les 2 minutes et ont même bloqué Burp Suite sur le site web, donc oui, il est vraiment très difficile de recréer le script ; honnêtement, je ne sais plus quoi faire, je n’ai plus d’idées et c’est tout… si quelqu’un a une idée et veut aider au code, qu’il n’hésite pas.**
+> [!NOTE]
+> **Bonjour à tous, le dépôt est en cours d’archivage mais le projet n’est pas mort, un groupe s’est porté volontaire pour continuer les mises à jour et ci-dessous se trouvent les liens vers le nouveau GitHub et Discord. Merci de tout cœur à tous ceux qui ont soutenu, je vous aime <3**
+<br>
+
+<p align="center">
+  <a href="https://discord.gg/dtxqAxqSET">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="100">
+  </a>
+  <a href="https://github.com/Wplace-AutoBot/WPlace-AutoBOT">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="100">
+  </a>
+</p>
 
 ---
 
