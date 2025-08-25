@@ -178,7 +178,7 @@
           );
           const mainPaintBtn = await waitForSelector('button.btn.btn-primary.btn-lg, button.btn-primary.sm\\:btn-xl');
           if (mainPaintBtn) {
-			while(!mainPaintBtn.disabled){
+			while(mainPaintBtn.disabled){
 				await sleep(500)
 			}
 			mainPaintBtn.click()
