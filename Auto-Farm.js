@@ -149,7 +149,7 @@
       }
 
       const randomPos = getRandomPosition();
-      let paintResult = await paintPixel(randomPos.x, randomPos.y);
+      const paintResult = await paintPixel(randomPos.x, randomPos.y);
       if (paintResult === 'token_error') {
         if (state.autoRefresh) {
           await getCharge();
@@ -179,9 +179,6 @@
           const mainPaintBtn = await waitForSelector('button.btn.btn-primary.btn-lg, button.btn-primary.sm\\:btn-xl');
           if (mainPaintBtn) {
 			while(mainPaintBtn.disabled){
-				if(!paintResult){
-					paintResult = await paintPixel(randomPos.x, randomPos.y);
-				}
 				await sleep(500)
 			}
 			mainPaintBtn.click()
